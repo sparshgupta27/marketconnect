@@ -1,5 +1,5 @@
 // Base API configuration and utilities
-const API_BASE_URL = 'https://webdev-codechamps.onrender.com/api';
+const API_BASE_URL = 'https://marketconnect-backend.onrender.com/api';
 
 export class ApiError extends Error {
   constructor(

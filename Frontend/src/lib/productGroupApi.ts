@@ -1,4 +1,4 @@
-const API_BASE = 'https://webdev-codechamps.onrender.com/api/product-groups';
+const API_BASE = 'https://marketconnect-backend.onrender.com/api/product-groups';
 
 export async function createProductGroup(data: any) {
   console.log('Creating product group with data:', data);
